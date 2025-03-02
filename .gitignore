@@ -1,0 +1,2 @@
+# Ignore CSV files as the data is too large for github
+*.csv
